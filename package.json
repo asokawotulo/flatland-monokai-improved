@@ -4,7 +4,7 @@
   "description": "Theme based on Flatland Monokai",
   "license": "MIT",
   "version": "0.1.5",
-  "publisher": "meirbon",
+  "publisher": "asokawotulo",
   "engines": {
     "vscode": "^1.19.0"
   },
@@ -14,7 +14,7 @@
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MeirBon/flatland-monokai-improved.git"
+    "url": "https://github.com/asokawotulo/flatland-monokai-improved.git"
   },
   "contributes": {
     "themes": [
@@ -22,17 +22,12 @@
         "label": "Flatland Monokai Improved",
         "uiTheme": "vs-dark",
         "path": "./themes/FMI.json"
-      },
-      {
-        "label": "Flatland Monokai Improved - No Cursor Highlight",
-        "uiTheme": "vs-dark",
-        "path": "./themes/FMI-No-Highlight.json"
       }
     ]
   },
   "__metadata": {
     "id": "30fa72b3-5244-480c-a508-2eadcaaab15c",
-    "publisherDisplayName": "Mèir Noordermeer",
+    "publisherDisplayName": "Asoka Wotulo",
     "publisherId": "44b84eb8-bb5f-432b-9209-5be9514d4fe3"
   }
 }
