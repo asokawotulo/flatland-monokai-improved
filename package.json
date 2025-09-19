@@ -11,6 +11,9 @@
   "categories": [
     "Themes"
   ],
+  "scripts": {
+    "build": "vsce package"
+  },
   "icon": "icon.png",
   "repository": {
     "type": "git",
@@ -24,5 +27,8 @@
         "path": "./themes/FMI.json"
       }
     ]
+  },
+  "dependencies": {
+    "@vscode/vsce": "^3.6.0"
   }
 }
